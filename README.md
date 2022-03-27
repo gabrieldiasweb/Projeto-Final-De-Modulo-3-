@@ -4,7 +4,7 @@
   <a href="#oprojeto">O Projeto</a>&nbsp;&nbsp;
   <a href="#nossaequipe">Nossa Equipe</a>&nbsp;&nbsp;
   <a href="#ferramentas">Ferramentas utilizadas</a>&nbsp;&nbsp;
-  <a href="#conhecimento">Conhecimentos adquiridos</a>&nbsp;&nbsp;
+  <a href="#conhecimentos">Conhecimentos adquiridos</a>&nbsp;&nbsp;
 </div>
 
 <h2 id="oprojeto">O Projeto</h2>
@@ -24,9 +24,14 @@
  <h2 id="ferramentas"> Ferramentas Utilizadas </h2>
  <ul>
   <li>MySQL Workbench</li>
-  <li> Virtual Studio </li>
+  <li>Data Studio </li>
   <li>Metodologia SCRUM</li>
  </ul>
-  
+  <h2 id="conhecimentos">Conhecimentos adquiridos</h2>
+  <ul>
+  <li> Querys Avançadas e Sub Querys</li>
+  <li>Data Studio</li>
+  <li>SCRUM</li>
+ </ul>
   
 
