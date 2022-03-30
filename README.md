@@ -18,9 +18,11 @@
     <img src="./img/grafico2.jpg" alt="Grafico 2">
     
     
-<h5>SCRUM & KANBAN</h5>
+<h3>SCRUM & KANBAN</h3>
  <p>Para manter o projeto bem organizado, otimizar o tempo e entregar no prazo, utilizamos 2 metedologias ágeis, SCRUM e Kanban. Ao iniciar criamos o product backlog, nosso projeto foi feito em 2 sprints, fizemos as daily meeting, utilizamos o quadro KANBAN para organizar melhor as tarefas e para uma melhor visualização delas. </p>
+ <h5> Quadro KABAN</h5>
 <img src="./img/kanban.png" alt="Quadro Kanban">
+<h5> Product Backlog</h5>
 <img src="./img/backlog.png" alt="Foto Backlogo ">
   
  <h2 id="ferramentas"> Ferramentas Utilizadas </h2>
@@ -28,6 +30,7 @@
   <li>MySQL Workbench</li>
   <li>Data Studio </li>
   <li>Metodologia SCRUM</li>
+    <li>Metodologia KANBAN</li>
  </ul>
   <h2 id="conhecimentos">Conhecimentos adquiridos</h2>
   <ul>
