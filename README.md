@@ -16,11 +16,12 @@
   <h5> Veja abaixo algumas imagens dos Graficos: </h5>
     <img src="./img/grafico1.jpg" alt="Grafico 1">
     <img src="./img/grafico2.jpg" alt="Grafico 2">
-
-     <h5>SCRUM & KANBAN</h5>
-     <p>Para manter o projeto bem organizado, otimizar o tempo e entregar no prazo, utilizamos 2 metedologias ágeis, SCRUM e Kanban. Ao iniciar criamos o product backlog, nosso projeto foi feito em 2 sprints, fizemos as daily meeting, utilizamos o quadro KANBAN para organizar melhor as tarefas e para uma melhor visualização delas. </p>
-    <img src="./img/kanban.png" alt="Quadro Kanban">
-    <img src="./img/backlog.png" alt="Foto Backlogo ">
+    
+    
+<h5>SCRUM & KANBAN</h5>
+ <p>Para manter o projeto bem organizado, otimizar o tempo e entregar no prazo, utilizamos 2 metedologias ágeis, SCRUM e Kanban. Ao iniciar criamos o product backlog, nosso projeto foi feito em 2 sprints, fizemos as daily meeting, utilizamos o quadro KANBAN para organizar melhor as tarefas e para uma melhor visualização delas. </p>
+<img src="./img/kanban.png" alt="Quadro Kanban">
+<img src="./img/backlog.png" alt="Foto Backlogo ">
   
  <h2 id="ferramentas"> Ferramentas Utilizadas </h2>
  <ul>
